@@ -61,9 +61,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@SujitPerla](https://instagram.com/notsujith)
 
-Project Link: [https://github.com/yourusername/galactic-clash](https://github.com/yourusername/galactic-clash)
+Project Link: [https://github.com/notsujith/galactic-clash](https://github.com/notsujith/galactic-clash)
 
 ## Acknowledgements
 
